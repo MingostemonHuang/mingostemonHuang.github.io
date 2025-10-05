@@ -50,7 +50,7 @@ If you share similar interests or have innovative ideas, I warmly welcome you to
 
 4. **M. Huang**, P. Wang, L. Cheng, C. Yao, W. Ying. [A Robust and Efficient Multiphysics Numerical System for Intensive Blast Wave Propagation in Complex Enviroments](https://arxiv.org/abs/2411.02407), accepted by Communications in Computational Physics.
 
-5. L. Tan, **M. Huang**, S. Zhu, P. Wang, W. Ying (2023). \href{https://arxiv.org/abs/2404.15249}[A GPU-Accelerated Cartesian Grid Method for PDEs on Irregular Domain]( https://doi.org/10.4208/cicp.OA-2024-0039), Communications in Computational Physics, 37(5), 1250-1276, 2025.
+5. L. Tan, **M. Huang**, S. Zhu, P. Wang, W. Ying. [A GPU-Accelerated Cartesian Grid Method for PDEs on Irregular Domain]( https://doi.org/10.4208/cicp.OA-2024-0039), Communications in Computational Physics, 37(5), 1250-1276, 2025.
 
 6. L. Tan, **M. Huang**, W. Ying. [A GPU-accelerated Cartesian grid method is proposed for solving the heat, wave, and Schrodinger equations on irregular domains](https://www.global-sci.org/intro/article_detail/cicp/23390.html). Communications in Computational Physics, Vol. 36, pp. 485-520, 2023.
 
