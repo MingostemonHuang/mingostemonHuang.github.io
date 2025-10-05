@@ -17,18 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, welcome to my homepage! I am happy to introduce myself first. I am a engineer in Tianchou's LAB ([OptVerse](https://www.huaweicloud.com/product/optverse.html)) for reasearching the numerical solvers in Huawei copmpany.
+Hello! Welcome to my homepage.
 
-I graduated from the [School of Mathematical Sciences，East China Normal University](https://math.ecnu.edu.cn/) under the supervison of [Professor Shengfeng Zhu](https://math.ecnu.edu.cn/~sfzhu/intro_c.html?language=1&id=177) in 2019. In 2025, I graduated from [School of Mathematical Sciences in Shanghai Jiao Tong University](https://math.sjtu.edu.cn/) with a doctor degree of the compuational mathematics. My advisor is [Professor Wenjun Ying](https://math.sjtu.edu.cn/faculty/wying/). My research interest mainly focus on the scientific computing and computational fluid dynamics.
+I’m pleased to introduce myself. I am currently an engineer in Tianchou’s LAB ([OptVerse](https://www.huaweicloud.com/product/optverse.html)) at Huawei, where I focus on the research and development of numerical solvers.
 
-I also interested in machine learning-assised modelling and computation. For example, I develop a physics-informed data-driven one fluid cavitation model and a hybrid numerical scheme (deepMTBVD) for compressible single- and multi-phase flow.
+I graduated from the School of Mathematical Sciences at East China Normal University in 2019, under the supervision of [Professor Shengfeng Zhu](https://math.ecnu.edu.cn/~sfzhu/intro_c.html?language=1&id=177). In 2025, I earned my doctoral degree in Computational Mathematics from the School of Mathematical Sciences at Shanghai Jiao Tong University, where I was advised by [Professor Wenjun Ying](https://math.sjtu.edu.cn/faculty/wying/).
 
-Now I turn to how to use LLM to enhance or expand the ablity of the simulation by our numerical solvers developed in Huawei. If you have the similar interest or innovative ideas, welcome to join us!
+My research interests lie primarily in scientific computing and computational fluid dynamics. I am also interested in machine learning-assisted modeling and computation. For instance, I have developed a physics-informed data-driven one-fluid cavitation model, as well as a hybrid numerical scheme (deepMTBVD) for compressible single- and multi-phase flows.
 
+Currently, I am exploring how to leverage large language models (LLMs) to enhance and extend the capabilities of the numerical solvers we develop at Huawei.
 
-<!-- # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2025.06*: &nbsp;🎉🎉 . -->
+If you share similar interests or have innovative ideas, I warmly welcome you to join us!
+
+# 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Began my role at Tianchou's Lab, Huawei
+- *2025.06*: &nbsp;🎉🎉 Earned my Ph.D. in Computational Mathematics
 
 # 🖊️Preprint
 1. **M. Huang**, R. Li, K. Yan, C. Yao, W. Ying. [An Accurate Computational Method for the Global Optimal Reference Field for the Difference Formulation in the Implicit Monte Carlo Radiation Transport](https://arxiv.org/abs/2411.02407), 2025. Under Review.
@@ -66,25 +69,22 @@ Now I turn to how to use LLM to enhance or expand the ablity of the simulation b
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025.06*: Shanghai Outstanding Graduate
+- *2020.10*: Huawei Scholarship
+- *2019.06*: Shanghai Outstanding Graduate
 
 # 📖 Educations
 
-- *2021.09-2025.06*: Ph.D, Computational Mathematics, Shanghai Jiao Tong University
+- *2021.09-2025.06*: **Ph.D**, Computational Mathematics, Shanghai Jiao Tong University
 
-- *2019.09-2021.-6*: M.S,  Computational Mathematics, Shanghai Jiao Tong University
+- *2019.09-2021.-6*: **M.S**,  Computational Mathematics, Shanghai Jiao Tong University
 
-- *2015.09-2019.06*: B.S,  Information and Computing Science, East China Normal University
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2015.09-2019.06*: **B.S**,  Information and Computing Science, East China Normal University
+
 
 # 💬 Invited Talks
 - *2024.06*, The $6^{th}$ annular conference of Institute of Applied Physics and Computational Mathematics, Huailai, China
 - *2024.07*, The $12^{th}$ [International Conference on Computational Fluid Dynamics](https://www.iccfd.org/) (ICCFD12), Kobe, Japan
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 - *July.13——July.23, 2024*: Tokyo Institude of Science, [Professor Feng Xiao](https://www.xiao.mech.e.titech.ac.jp/xiao-profile-new.html)
